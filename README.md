@@ -1,5 +1,5 @@
 # Modern-Javascript-in-Tamil-(ES+) (தமிழில்)
-
+Learn more about Javascript
 [![Stars](https://img.shields.io/github/stars/anburocky3/modern-javascript-in-tamil)](https://github.com/anburocky3/modern-javascript-in-tamil)
 [![Forks](https://img.shields.io/github/forks/anburocky3/modern-javascript-in-tamil)](https://github.com/anburocky3/modern-javascript-in-tamil)
 [![GitHub license](https://img.shields.io/github/license/anburocky3/modern-javascript-in-tamil)](https://github.com/anburocky3/modern-javascript-in-tamil)
